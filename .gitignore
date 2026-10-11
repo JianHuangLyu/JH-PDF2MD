@@ -1,0 +1,8 @@
+# 打包產物與暫存
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc

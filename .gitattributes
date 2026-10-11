@@ -1,0 +1,2 @@
+# 批次檔必須維持 CRLF 換行，否則 cmd 解析 goto 標籤時可能出錯
+*.bat text eol=crlf
