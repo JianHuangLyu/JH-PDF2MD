@@ -4,6 +4,12 @@
 
 它會辨識標題、段落、清單、表格、程式碼、連結與圖片，自動去掉每頁重複的頁首、頁尾和頁碼，並把被換行或換頁切斷的句子接回去。中文和英文文件都適用。
 
+## 作者
+
+Jian-Huang Lyu
+
+聯絡信箱：[a7929771@gmail.com](mailto:a7929771@gmail.com)
+
 ## 下載
 
 到 [Releases](https://github.com/JianHuangLyu/JH-PDF2MD/releases/latest) 下載最新的 zip，解壓縮後得到 `JH PDF2MD.exe`。
@@ -112,9 +118,3 @@ python pdf2md.py 報告.pdf
 ## 相依套件與授權
 
 PDF 的解析使用 [PyMuPDF](https://pymupdf.readthedocs.io/)，執行檔中也內含它。PyMuPDF 採用 AGPL-3.0 與商業授權雙軌制，如果要對外散布這個工具或它的執行檔，請留意 AGPL-3.0 的條款。
-
-## 作者
-
-Jian-Huang Lyu
-
-聯絡信箱：[a7929771@gmail.com](mailto:a7929771@gmail.com)
