@@ -112,3 +112,9 @@ python pdf2md.py 報告.pdf
 ## 相依套件與授權
 
 PDF 的解析使用 [PyMuPDF](https://pymupdf.readthedocs.io/)，執行檔中也內含它。PyMuPDF 採用 AGPL-3.0 與商業授權雙軌制，如果要對外散布這個工具或它的執行檔，請留意 AGPL-3.0 的條款。
+
+## 作者
+
+Jian-Huang Lyu
+
+聯絡信箱：[a7929771@gmail.com](mailto:a7929771@gmail.com)
